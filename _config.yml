@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Lulbumps.cl | Blog"
+title                    : "Lulubumps.cl | Blog"
 title_separator          : "-"
 name                     : "Lulubumps Blog"
 description              : "Posts about security, CTFs and networking"
