@@ -95,7 +95,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-145129883-1"
+    tracking_id          : "G-2CJWZYSBSP"
     anonymize_ip         : false # (default)
 
 
@@ -117,7 +117,7 @@ author:
   github           : "lulubumps"
   gitlab           :
   google_plus      :
-  keybase          : ""
+  keybase          : 
   instagram        : "lulubumps"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
