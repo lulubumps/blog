@@ -1,6 +1,8 @@
 ---
-title: "About"
+title: "Sobre mí"
 permalink: /about/
-date: 2019-02-15
+layout: single
+author_profile: true
 ---
 
+Soy Lulu Sánchez, analista programador y creador de contenido. Abrí esta bitácora para dejar por escrito cómo nacen mis proyectos, qué problemas intento resolver y qué aprendo al construirlos. Quiero que quien llegue aquí en unos años pueda seguirles la pista, incluso si las herramientas que usé ya cambiaron.
