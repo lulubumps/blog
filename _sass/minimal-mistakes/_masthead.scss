@@ -39,8 +39,21 @@
   }
 }
 
-.site-logo img {
-  max-height: 2rem;
+.site-logo {
+  width: 9rem;
+  height: 2rem;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+
+  img {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    transform: translateY(-50%);
+  }
 }
 
 .site-title {
